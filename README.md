@@ -7,14 +7,14 @@ Please provide as many solutions in their corresponding language file.
 Scenario A
 ---
 1. Given the array [1, 3, 5, 2, 4, 6]
-2. Demonstrate the syntax for an ascending sort. 
+1. Demonstrate the syntax for an ascending sort. 
 
 Scenario B
 ---
 1. Given the string "Microsoft"
-2. Demonstrate the syntax to remove vowels.
+1. Demonstrate the syntax to remove vowels.
 
 Scenario C
 ---
 1. Given the formula "123 / 0"
-2. Demonstrate the syntax to handle exceptions.
+1. Demonstrate the syntax to handle exceptions.
