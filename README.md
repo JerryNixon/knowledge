@@ -4,7 +4,7 @@ Please provide as many solutions in their corresponding language file.
 2. Make your changes.
 3. Provide a link to your repository.
 
-Scenario A
+Scenario A!
 ---
 1. Given the array [1, 3, 5, 2, 4, 6]
 1. Demonstrate the syntax for an ascending sort. 
